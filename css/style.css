@@ -1,0 +1,13 @@
+body{
+        background-color: white;
+}
+#title {
+        background-color: teal;
+        text-align: center;
+        width: auto;
+}
+
+.gun-shot {
+        position: absolute;
+
+}
